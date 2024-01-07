@@ -3,10 +3,12 @@
 <h3 align="center">Junior Full Stack Developer</h3>
 - 🌱 I’m currently learning **🌱 I am currently learning HTML, CSS, Bootstrap, React and JS, JAVA, SQL, API and will continue to develop.**
 
-- 📫 You can reach me ** here via my e-mail address "bozibrahim13@gmail.com". You can also use social media to reach me.**
+-  📫 You can reach me  here via my e-mail address "bozibrahim13@gmail.com". You can also use social media to reach me.**
 - 👨‍💻 All of my projects are available at **https://github.com/IbrahimBooz**
 - 📝 I regularly write articles on linkedin: **https://www.linkedin.com/in/ibrahim-boz/**
-- ⚡ Fun fact **Sports, movies, anime, computer technologies, video games are my hobbies**
+- ⚡ Fun fact Sports, movies, anime, computer technologies, video games are my hobbies
+- 👯 I’m looking to collaborate on people that values ​​their colleague and teamwork oriented.
+- ⚡ Below are the projects I've been working on to improve myself. I'm open to all ideas, have a nice day
 
 <div> <a href="https://www.linkedin.com/in/İbrahim Boz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/IbrahimBooz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
